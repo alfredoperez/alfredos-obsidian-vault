@@ -6,28 +6,14 @@
       {
         "id": "7d46d8d79b87c574",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
-            "mode": "source"
+            "file": "Professional/_ NgRx Lessons Learned.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "7a8b10de9cde8b42"
-      },
-      {
-        "id": "6179b1ffdb5d0dd4",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
-            "mode": "preview"
-          }
-        },
-        "group": "7a8b10de9cde8b42"
+        }
       }
     ],
     "direction": "vertical"
@@ -72,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f317ed0d6664cd7",
@@ -112,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md"
+                "file": "Professional/_ NgRx Lessons Learned.md"
               }
             }
           }
@@ -129,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
+                "file": "Professional/_ NgRx Lessons Learned.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,11 +129,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296,
-    "collapsed": true
+    "width": 296
   },
   "active": "7d46d8d79b87c574",
   "lastOpenFiles": [
+    "Professional/_ NgRx Lessons Learned.md",
     "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
     "How this works.md",
     "Personal/The Compound Effect.md",
@@ -157,7 +142,6 @@
     "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
     "00 - Templates/Learning Note - Video.md",
     "_Courses and Workshops.md",
-    "Inbox/Gatsby Camp Fall 2021.md",
-    "Inbox/Adding notes references into your GatsbyJS Digital Garden.md"
+    "Inbox/Gatsby Camp Fall 2021.md"
   ]
 }
