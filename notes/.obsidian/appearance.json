@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Ursa",
+  "cssTheme": "California Coast",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "zoom-image",
@@ -7,5 +7,6 @@
     "popover",
     "center-headline"
   ],
-  "baseFontSize": 14
+  "baseFontSize": 13,
+  "translucency": false
 }
