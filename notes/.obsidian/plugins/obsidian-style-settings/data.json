@@ -1,5 +1,14 @@
 {
   "obsidian-california-coast-theme@@accent": "#6551B0",
   "obsidian-california-coast-theme@@cc-no-folder-icons": true,
-  "obsidian-california-coast-theme@@cc-no-file-icons": true
+  "obsidian-california-coast-theme@@cc-no-file-icons": true,
+  "obsidian-california-coast-theme@@editor-font": "\"Open Sans\"",
+  "obsidian-california-coast-theme@@font-monospace": "\"Fira Code\", \"IBM Plex Mono\"",
+  "obsidian-california-coast-theme@@cc-editor-list-bullets": false,
+  "obsidian-california-coast-theme@@cc-fancy-cursor": true,
+  "obsidian-california-coast-theme@@default-font": "\"Lato\"",
+  "obsidian-california-coast-theme@@editor-font-features": "font-variant-ligatures",
+  "obsidian-california-coast-theme@@cc-soft-blink-cursor": true,
+  "obsidian-california-coast-theme@@cc-lp-editor-heading-hash": true,
+  "obsidian-california-coast-theme@@h1-color@@light": "#3F4758"
 }

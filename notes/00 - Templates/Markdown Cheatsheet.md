@@ -112,6 +112,10 @@ Foldable text:
 <p> Some HTML code here </p>
 ```
 
+```Typescript
+const foo = a >= b ? 5: 6;
+```
+
 Hotkey:
 <kbd>⌘F</kbd>
 <kbd>⇧⌘F</kbd>
