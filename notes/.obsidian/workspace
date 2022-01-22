@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
+            "file": "My Obsidian Setup.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ZackDerose",
+                "query": "obsidian setup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/Prefer using Component Store or services with a behavior subject for local state.md"
+                "file": "My Obsidian Setup.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
+                "file": "My Obsidian Setup.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "7d46d8d79b87c574",
   "lastOpenFiles": [
+    "My Obsidian Setup.md",
+    "Inbox/Untitled.md",
+    "Website Goals and Setup.md",
     "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
     "Professional/NgRx From Global to Component Store - BLS021 SHOW & TELL WITH ZACK DEROSE.md",
     "Inbox/Adding notes references into your GatsbyJS Digital Garden.md",
     "00 - Templates/Markdown Cheatsheet.md",
     "Professional/_ NgRx Lessons Learned.md",
     "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
-    "How this works.md",
-    "Personal/The Compound Effect.md",
-    "Personal/Linking Your Thinking.md",
-    "Personal/Life of Focus.md"
+    "How this works.md"
   ]
 }
