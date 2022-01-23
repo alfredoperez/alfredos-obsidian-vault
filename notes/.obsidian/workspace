@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Templates/Highlight Note - Workshop.md",
+            "file": "00 - Templates/Learning Note - Video.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#angular",
+                "query": "type:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f317ed0d6664cd7",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Templates/Highlight Note - Workshop.md"
+                "file": "00 - Templates/Learning Note - Video.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Templates/Highlight Note - Workshop.md",
+                "file": "00 - Templates/Learning Note - Video.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,15 +144,15 @@
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
-    "00 - Templates/Highlight Note - Workshop.md",
     "00 - Templates/Learning Note - Video.md",
+    "00 - Templates/Learning Note - Book.md",
+    "00 - Templates/Highlight Note - Workshop.md",
     "00 - Templates/Markdown Cheatsheet.md",
     "Inbox/My Obsidian Setup.md",
     "Inbox/Untitled.md",
     "Website Goals and Setup.md",
     "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
     "Professional/NgRx From Global to Component Store - BLS021 SHOW & TELL WITH ZACK DEROSE.md",
-    "Inbox/Adding notes references into your GatsbyJS Digital Garden.md",
-    "Professional/_ NgRx Lessons Learned.md"
+    "Inbox/Adding notes references into your GatsbyJS Digital Garden.md"
   ]
 }
