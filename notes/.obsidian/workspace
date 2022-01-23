@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Templates/Markdown Cheatsheet.md",
+            "file": "00 - Templates/Learning Note - Video.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian setup",
+                "query": "tag:#angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f317ed0d6664cd7",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Templates/Markdown Cheatsheet.md"
+                "file": "00 - Templates/Learning Note - Video.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Templates/Markdown Cheatsheet.md",
+                "file": "00 - Templates/Learning Note - Video.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
+    "00 - Templates/Learning Note - Video.md",
     "00 - Templates/Markdown Cheatsheet.md",
     "Inbox/My Obsidian Setup.md",
     "Inbox/Untitled.md",
@@ -151,7 +153,6 @@
     "Professional/NgRx From Global to Component Store - BLS021 SHOW & TELL WITH ZACK DEROSE.md",
     "Inbox/Adding notes references into your GatsbyJS Digital Garden.md",
     "Professional/_ NgRx Lessons Learned.md",
-    "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md",
-    "How this works.md"
+    "Professional/A structured approach to processing diverse inputs - Bryan Jenks and his Obsidian KMS.md"
   ]
 }
