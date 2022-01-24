@@ -1,0 +1,14 @@
+{
+  "name": "Alfredo's Obsidian Vault",
+  "description": "Alfredo Perez Obsidian Vault",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Alfredo Perez (https://alfredo-perez.dev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfredoperez/obsidian-pkm"
+  },
+  "bugs": {
+    "url": "https://github.com/alfredoperez/obsidian-pkm/issues"
+  }
+}
