@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Templates/Highlight Note - Video.md",
+            "file": "Highlights/The Best Practices for a Great Developer Experience.md",
             "mode": "source",
-            "backlinks": false,
+            "backlinks": true,
             "source": false
           }
         }
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f317ed0d6664cd7",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Templates/Highlight Note - Video.md"
+                "file": "Highlights/The Best Practices for a Great Developer Experience.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Templates/Highlight Note - Video.md",
+                "file": "Highlights/The Best Practices for a Great Developer Experience.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,15 +144,15 @@
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
+    "Highlights/The Best Practices for a Great Developer Experience.md",
+    "Highlights/Developer Experience Is the Next Competitive Front in Enterprise Tech.md",
+    "Highlights/Building a Meditation Routine for a More Productive, Creative and Happier Scientific Life.md",
     "00 - Templates/Highlight Note - Video.md",
-    "00 - Templates/Highlight Note - Book.md",
-    "00 - Templates/Highlight Note - Workshop.md",
-    "00 - Templates/Markdown Cheatsheet.md",
-    "Inbox/My Obsidian Setup.md",
-    "Inbox/Untitled.md",
-    "Website Goals and Setup.md",
-    "Professional/Prefer using Component Store or services with a behavior subject for local state.md",
-    "Professional/NgRx From Global to Component Store - BLS021 SHOW & TELL WITH ZACK DEROSE.md",
-    "Inbox/Adding notes references into your GatsbyJS Digital Garden.md"
+    "Highlights/6 Steps to Writing Captivating Blog Post Intros Every Time.md",
+    "Highlights/20+ Lessons I've Learned Writing on DEV for 4 Years.md",
+    "Highlights/End of Watch.md",
+    "Highlights/How to Take Smart Notes.md",
+    "Highlights/Elastic Habits.md",
+    "00 - Templates/Highlight Note - Book.md"
   ]
 }
