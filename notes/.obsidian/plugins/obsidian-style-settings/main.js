@@ -3404,11 +3404,16 @@ function getCSSVariables(settings, config) {
                 continue;
             case "variable-text":
             case "variable-select":
+                const format_text = setting;
+                let text = value !== undefined
+                    ? value.toString()
+                    : format_text.default.toString();
+                if (format_text.quotes) {
+                    text = `'${text}'`;
+                }
                 vars.push({
                     key: setting.id,
-                    value: value !== undefined
-                        ? value.toString()
-                        : setting.default.toString(),
+                    value: text
                 });
                 continue;
             case "variable-color": {
@@ -3772,7 +3777,14 @@ const ja = {};
 
 const ko = {};
 
-const nl = {};
+const nl = {
+    "Default:": "Standaard:",
+    "Error:": "Error:",
+    "missing default light value, or value is not in a valid color format": "Geen standaard waarde voor het lichte thema, of de waarde is niet in het goede formaat",
+    "missing default dark value, or value is not in a valid color format": "Geen standaard waarde voor het donkere thema, of de waarde is niet in het goede formaat",
+    "missing default value, or value is not in a valid color format": "Geen standaard waarde, of de waarde is niet in het goede formaat",
+    "missing default value": "Geen standaard waarde",
+};
 
 const no = {};
 

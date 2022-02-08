@@ -3,9 +3,9 @@
   "emphasis": "_",
   "rule": "-",
   "createHeaderIfNotPresent": true,
-  "newHeaderTemplate": "\ndate updated: '{{date:M/DD/YY}}' \n",
+  "newHeaderTemplate": "\nupdated: {{date:M/DD/YY}}\n",
   "updateHeader": true,
-  "updateHeaderTemplate": "\ndate updated: \"{{date:M/DD/YY}}\" \n",
+  "updateHeaderTemplate": "\nupdated: {{date:M/DD/YY}}\" \n",
   "listItemIndent": "tab",
   "newlinesAroundHeadings": true
 }

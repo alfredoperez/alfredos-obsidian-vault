@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highlights/The Best Practices for a Great Developer Experience.md",
+            "file": "Inbox/Migrating my Digital Garden to NextJS.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dx",
+                "query": "Tags: [[blue]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f317ed0d6664cd7",
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "9f0e0a49a23e90c4",
@@ -91,7 +91,6 @@
       {
         "id": "ab1df979851abe53",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "164299b69c4f1266",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights/The Best Practices for a Great Developer Experience.md"
+                "file": "Inbox/Migrating my Digital Garden to NextJS.md"
               }
             }
           },
@@ -110,24 +109,34 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ab3189da6dc84fb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/Migrating my Digital Garden to NextJS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "fb3ded1b48ebbb71",
+        "id": "54f5f2b420d83474",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "db9ea14cedcb461b",
+            "id": "ac225df66c3095d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights/The Best Practices for a Great Developer Experience.md",
+                "file": "Inbox/Migrating my Digital Garden to NextJS.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -140,19 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 316
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
-    "Highlights/The Best Practices for a Great Developer Experience.md",
+    "Inbox/Migrating my Digital Garden to NextJS.md",
+    "Inbox/My Obsidian Setup.md",
+    "Readwise/Books/Elastic Habits.md",
     "Highlights/Developer Experience Is the Next Competitive Front in Enterprise Tech.md",
+    "Highlights/The Best Practices for a Great Developer Experience.md",
     "Highlights/Building a Meditation Routine for a More Productive, Creative and Happier Scientific Life.md",
     "00 - Templates/Highlight Note - Video.md",
     "Highlights/6 Steps to Writing Captivating Blog Post Intros Every Time.md",
     "Highlights/20+ Lessons I've Learned Writing on DEV for 4 Years.md",
-    "Highlights/End of Watch.md",
-    "Highlights/How to Take Smart Notes.md",
-    "Highlights/Elastic Habits.md",
-    "00 - Templates/Highlight Note - Book.md"
+    "Highlights/End of Watch.md"
   ]
 }

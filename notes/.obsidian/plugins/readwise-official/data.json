@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2662827,
+  "lastSavedStatusID": 2770952,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -103,7 +103,11 @@
     "Highlights/Scaling Product Management at SendGrid Building a Developer Experience Team.md": "12106672",
     "Highlights/My Digital Zettelkasten Workflow With NotePlan.md": "12106667",
     "Highlights/What Is Developer Experience (And Why Does It Matter).md": "12106674",
-    "Highlights/Why I Changed My Email Setup.md": "12345926"
+    "Highlights/Why I Changed My Email Setup.md": "12345926",
+    "Highlights/How a Simple Math Equation Can Transform Your Productivity.md": "13330871",
+    "Highlights/How to Write an Awesome Blog Post in 5 Steps.md": "13330872",
+    "Highlights/Product Managers and Product Owners What's the Difference.md": "13331498",
+    "Highlights/Building a Learning System to Stay Sharp as a Developer Advocate.md": "13444448"
   },
   "reimportShowConfirmation": true
 }

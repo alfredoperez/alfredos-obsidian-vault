@@ -30,3 +30,11 @@
     - 6 highlights from What Is Developer Experience (And Why Does It Matter)?
     - 2 highlights from Why I Changed My Email Setup
 
+- [[2022-02-02]] 8:36 PM — Synced 33 highlights from 3 documents.
+    - 1 highlights from How a Simple Math Equation Can Transform Your Productivity
+    - 29 highlights from How to Write an Awesome Blog Post in 5 Steps
+    - 3 highlights from Product Managers and Product Owners: What's the Difference?
+
+- [[2022-02-07]] 6:58 PM — Synced 8 highlights from 1 document.
+    - 8 highlights from Building a Learning System to Stay Sharp as a Developer Advocate
+
