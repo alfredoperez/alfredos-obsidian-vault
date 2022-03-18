@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Migrating my Digital Garden to NextJS.md",
+            "file": "00 - Templates/Markdown Cheatsheet.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Migrating my Digital Garden to NextJS.md"
+                "file": "00 - Templates/Markdown Cheatsheet.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Migrating my Digital Garden to NextJS.md",
+                "file": "00 - Templates/Markdown Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Migrating my Digital Garden to NextJS.md",
+                "file": "00 - Templates/Markdown Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
-    "Inbox/Migrating my Digital Garden to NextJS.md",
+    "00 - Templates/Markdown Cheatsheet.md",
     "Inbox/My Obsidian Setup.md",
+    "Inbox/Migrating my Digital Garden to NextJS.md",
     "Readwise/Books/Elastic Habits.md",
     "Highlights/Developer Experience Is the Next Competitive Front in Enterprise Tech.md",
     "Highlights/The Best Practices for a Great Developer Experience.md",
     "Highlights/Building a Meditation Routine for a More Productive, Creative and Happier Scientific Life.md",
     "00 - Templates/Highlight Note - Video.md",
     "Highlights/6 Steps to Writing Captivating Blog Post Intros Every Time.md",
-    "Highlights/20+ Lessons I've Learned Writing on DEV for 4 Years.md",
-    "Highlights/End of Watch.md"
+    "Highlights/20+ Lessons I've Learned Writing on DEV for 4 Years.md"
   ]
 }
