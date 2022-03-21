@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Templates/Markdown Cheatsheet.md",
+            "file": "Inbox/Testing Web Apps with Cypress.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Templates/Markdown Cheatsheet.md"
+                "file": "Inbox/Testing Web Apps with Cypress.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Templates/Markdown Cheatsheet.md",
+                "file": "Inbox/Testing Web Apps with Cypress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Templates/Markdown Cheatsheet.md",
+                "file": "Inbox/Testing Web Apps with Cypress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +152,7 @@
   },
   "active": "9d457c19097cd918",
   "lastOpenFiles": [
+    "Inbox/Testing Web Apps with Cypress.md",
     "00 - Templates/Markdown Cheatsheet.md",
     "Inbox/My Obsidian Setup.md",
     "Inbox/Migrating my Digital Garden to NextJS.md",
@@ -160,7 +161,6 @@
     "Highlights/The Best Practices for a Great Developer Experience.md",
     "Highlights/Building a Meditation Routine for a More Productive, Creative and Happier Scientific Life.md",
     "00 - Templates/Highlight Note - Video.md",
-    "Highlights/6 Steps to Writing Captivating Blog Post Intros Every Time.md",
-    "Highlights/20+ Lessons I've Learned Writing on DEV for 4 Years.md"
+    "Highlights/6 Steps to Writing Captivating Blog Post Intros Every Time.md"
   ]
 }
